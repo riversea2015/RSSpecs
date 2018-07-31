@@ -1,6 +1,6 @@
 # RSSpecs
 
-Test for Creating private pods!
+Test for creating private pods!
 
 ## Contents:
 
