@@ -33,7 +33,6 @@ Pod::Spec.new do |s|
   if ENV['IS_SOURCE']
     s.source_files = 'ceshi/Classes/**/*'
   else
-    s.source_files = 'ceshi/Classes/**/*.swift'
     s.vendored_framework = 'ceshi-0.1.0/ios/ceshi.framework'
   end
   s.swift_version = '4.0'
